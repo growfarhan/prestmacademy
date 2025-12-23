@@ -1,0 +1,8 @@
+{
+  "name": "Prestma Academy",
+  "description": "A modern E-Learning platform featuring a robust admin dashboard for managing YouTube-based courses and a sleek user interface for students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
